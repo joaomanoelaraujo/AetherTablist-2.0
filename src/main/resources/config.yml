@@ -1,7 +1,1 @@
-combat-log:
-  actionbar-enabled: true
-  block-world-change: true
-  blocked-commands:
-    - tp
-    - warp
-    - spawn
+spawn:

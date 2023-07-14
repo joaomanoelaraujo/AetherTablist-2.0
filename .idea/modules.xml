@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AetherCombatLog.iml" filepath="$PROJECT_DIR$/AetherCombatLog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AetherChests.iml" filepath="$PROJECT_DIR$/AetherChests.iml" />
     </modules>
   </component>
 </project>

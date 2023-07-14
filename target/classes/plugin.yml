@@ -1,0 +1,10 @@
+author: D4RKK
+name: AetherRewards
+version: 1.0
+
+commands:
+  recompensas:
+    description: Abre o menu de recompensas
+    usage: /recompensas
+
+main: me.lostedark.aetherplugins.rewards.Main

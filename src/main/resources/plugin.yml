@@ -1,5 +1,5 @@
 author: D4RKK
-name: AetherCombatLog
-version: 1.1
+name: AetherChests
+version: 1.0
 
-main: me.lostedark.aetherplugins.combatlog.Main
+main: me.lostedark.aetherplugins.chest.Main
