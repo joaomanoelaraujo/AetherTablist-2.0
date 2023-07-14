@@ -12,7 +12,6 @@ public class Main extends JavaPlugin {
 
    public void onEnable() {
       instance = this;
-      this.saveDefaultConfig();
 
       String pluginName = this.getDescription().getName();
       String pluginVersion = this.getDescription().getVersion();
@@ -31,7 +30,6 @@ public class Main extends JavaPlugin {
    }
 
    public void onDisable() {
-      this.saveConfig();
       this.getLogger().info("Plugin desabilitado!");
    }
 }
