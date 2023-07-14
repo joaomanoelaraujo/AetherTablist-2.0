@@ -1,3 +1,3 @@
-# AetherCombatLog
+# AetherChests
 
-Um plugin simples de combatlog!
+Um plugin simples de bau pessoal!
