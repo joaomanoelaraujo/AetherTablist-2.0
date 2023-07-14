@@ -2,4 +2,9 @@ author: D4RKK
 name: AetherChests
 version: 1.0
 
+commands:
+  bau:
+    description: abre um bau privado do jogador
+    usage: /bau
+
 main: me.lostedark.aetherplugins.chest.Main

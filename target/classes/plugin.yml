@@ -1,10 +1,10 @@
 author: D4RKK
-name: AetherRewards
+name: AetherChests
 version: 1.0
 
 commands:
-  recompensas:
-    description: Abre o menu de recompensas
-    usage: /recompensas
+  bau:
+    description: abre um bau privado do jogador
+    usage: /bau
 
-main: me.lostedark.aetherplugins.rewards.Main
+main: me.lostedark.aetherplugins.chest.Main
