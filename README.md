@@ -1,3 +1,3 @@
-# AetherChests
+# AetherTablist
 
-Um plugin simples de bau pessoal!
+Um plugin de tablist conceitual.
