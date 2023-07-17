@@ -2,20 +2,37 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="AetherChests" />
+      <artifact name="AetherTablist" />
     </artifacts-to-build>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b50b424-527e-4366-9844-b049775cbd77" name="Changes" comment="remoçao de config.">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/baus.yml" afterDir="false" />
+    <list default="true" id="9b50b424-527e-4366-9844-b049775cbd77" name="Changes" comment="Adição de mais baús.">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/AetherTablist.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AetherTablist.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AetherUtils.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lostedark/aetherplugins/tablist/bungee/Bungee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lostedark/aetherplugins/tablist/bungee/commands/Commands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lostedark/aetherplugins/tablist/bungee/commands/collections/GoCommand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/lostedark/aetherplugins/tablist/bungee/listeners/PluginMessageListeners.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/AetherChests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/HolographicDisplays.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AetherChests.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/lostedark/aetherplugins/chest/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/lostedark/aetherplugins/chest/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/lostedark/aetherplugins/chest/commands/BauCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/lostedark/aetherplugins/chest/commands/BauCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/lostedark/aetherplugins/chest/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/lostedark/aetherplugins/chest/commands/BauCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/baus.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/plugin.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,12 +88,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/Users/JMATSU/Desktop/AetherPlugins/AetherChests/src/main/resources",
+    "last_opened_file_path": "C:/Users/JMATSU/Downloads/FlameCord.jar",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+    "settings.editor.selected.configurable": "project.propVCSSupport.Confirmation"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -84,6 +102,8 @@
       <recent name="me.lostedark.kits" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JMATSU\Desktop\AetherPlugins\AetherTablist\src\main\java\me\lostedark\aetherplugins\tablist" />
+      <recent name="C:\Users\JMATSU\Desktop\AetherPlugins\AetherTablist" />
       <recent name="C:\Users\JMATSU\Desktop\AetherPlugins\AetherChests\src\main\resources" />
       <recent name="C:\Users\JMATSU\Desktop\AetherPlugins\AetherRewards\src\main\resources" />
       <recent name="C:\Users\jmpla\OneDrive\Área de Trabalho\Projetos Darkzera\LKits\src\main\java\me\lostedark\kits" />
@@ -92,6 +112,8 @@
       <recent name="main.java.me.lostedark" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.lostedark.aetherplugins.tablist" />
+      <recent name="me.lostedark.aetherplugins.chest.utils" />
       <recent name="utils" />
     </key>
   </component>
@@ -128,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689344467575</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adição de mais baús.">
+      <option name="closed" value="true" />
+      <created>1689380128547</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1689380128547</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,6 +175,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <MESSAGE value="remoçao de config." />
-    <option name="LAST_COMMIT_MESSAGE" value="remoçao de config." />
+    <MESSAGE value="Adição de mais baús." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição de mais baús." />
   </component>
 </project>

@@ -1,8 +1,9 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="AetherChests">
+  <artifact type="jar" name="AetherTablist">
     <output-path>$USER_HOME$/AppData/Roaming/.feather/player-server/servers/d6730654-5839-4883-9441-2f9a3e9a47b9/plugins</output-path>
-    <root id="archive" name="AetherChests.jar">
-      <element id="module-output" name="AetherChests" />
+    <root id="archive" name="AetherTablist.jar">
+      <element id="module-output" name="AetherTablist" />
+      <element id="module-output" name="AetherUtils" />
     </root>
   </artifact>
 </component>
