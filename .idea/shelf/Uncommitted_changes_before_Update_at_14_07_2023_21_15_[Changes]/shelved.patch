@@ -1,0 +1,20 @@
+Index: target/classes/config.yml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>spawn:\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/target/classes/config.yml b/target/classes/config.yml
+--- a/target/classes/config.yml	(revision e969da476d96be6084a22159cf0f60c39afcdfaa)
++++ b/target/classes/config.yml	(date 1689379260973)
+@@ -1,1 +1,7 @@
+-spawn:
++database:
++  enabled: true
++  host: localhost
++  port: 3306
++  name: database_name
++  username: your_username
++  password: your_password
+\ No newline at end of file

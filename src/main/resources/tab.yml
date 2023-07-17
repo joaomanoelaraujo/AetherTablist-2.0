@@ -1,0 +1,10 @@
+enabled: true
+header: " \n&6&lAETHER PLUGINS\n &fplugins.aetherstore.shop\n\n &fBem-vindo(a) ao servidor %player%!\n\n&6Seu Ping: &f%ping%\n&6Online: &f%online%\n"
+footer: " \n \n&6Discord: &faetherstore.shop/discord   \n \n                     &6Adquira Plugins gratuitos acessando:\n &fplugins.aetherstore.shop/discord                                         \n\n&6Cordenadas: &f%coordinates%\n "
+tick: 20 #Velocidade de atualização do tab.
+
+# Variaveis funcionais:
+# %player% mostra o nickname do jogador no tab.
+# %online% mostra quantos players estão online no servidor.
+# %ping% mostra o ping do jogador.
+# %coordinates% mostra as cordenadas do jogador, para o jogador no tab.
